@@ -1,4 +1,4 @@
-#Q/bin/bash
+#!/bin/bash
 
 DOCKER_IMAGE_MAINTAINER="ntbc"
 DOCKER_IMAGE_NAME="oracle-java"
