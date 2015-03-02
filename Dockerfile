@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:centos7
 MAINTAINER Thomas Krahn "ntbc@gmx.net"
 
 ENV JAVA_RPM_URL="http://download.oracle.com/otn-pub/java/jdk/8u20-b26/jdk-8u20-linux-x64.rpm"
